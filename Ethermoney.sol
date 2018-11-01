@@ -667,10 +667,10 @@ contract Consts {
     uint8 public constant TOKEN_DECIMALS_UINT8 = 18;
     uint public constant TOKEN_DECIMAL_MULTIPLIER = 10 ** TOKEN_DECIMALS;
 
-    string public constant TOKEN_NAME = "Ethermoney";
-    string public constant TOKEN_SYMBOL = "ETM";
+    string public constant TOKEN_NAME = "GBCoin";
+    string public constant TOKEN_SYMBOL = "GBC";
     bool public constant PAUSED = false;
-    address public constant TARGET_USER = 0xe4949064008cdcd0377E4d51b42B9CC9b15E7b00;
+    address public constant TARGET_USER = 0xf6c0C18977182FDA87d71b0294E2e468a0DA9Cb4;
     
     bool public constant CONTINUE_MINTING = true;
 }
@@ -723,8 +723,8 @@ contract MainToken is Consts, FreezableMintableToken, BurnableToken, Pausable
         }
 
         
-        address[3] memory addresses = [address(0xaefda616da45f3dc26f14597930140e5d0d54172),address(0x68999c688cfbae00a4e0978ef422d3b36ebce15d),address(0xe4949064008cdcd0377e4d51b42b9cc9b15e7b00)];
-        uint[3] memory amounts = [uint(12000000000000000000000000000),uint(8000000000000000000000000000),uint(80000000000000000000000000000)];
+        address[3] memory addresses = [address(0x1ba692f4d10aa348926d8b667101f7fb8f95d49d),address(0xcfe38988f72e085f7f1c6c9af30fe9855cf022ff),address(0xf6c0c18977182fda87d71b0294e2e468a0da9cb4)];
+        uint[3] memory amounts = [uint(10000000000000000000000000000),uint(10000000000000000000000000000),uint(80000000000000000000000000000)];
         uint64[3] memory freezes = [uint64(0),uint64(0),uint64(0)];
 
         for (uint i = 0; i < addresses.length; i++) {
