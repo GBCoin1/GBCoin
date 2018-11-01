@@ -13,7 +13,7 @@ Link:
 <li>Website: www.gb-coin.io
 <li>Email: gb.coin.info@gmail.com
 <li>Github: https://github.com/GBCoin1/GBCoin
-<li>Reddit: https://www.reddit.com/GBCoin1
+<li>Reddit: https://www.reddit.com/u/GBCoin1
 <li>Exchange: https://token.store/trade/GBC
 <li>Twitter: https://twitter.com/gb_coin
 <li>Instagram: https://www.instagram.com/gbcoin_project/
