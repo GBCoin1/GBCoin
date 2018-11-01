@@ -1,9 +1,9 @@
 GBCoin
 
 
-Specifications of GBCoin
-Name: GBCoin
-Symbol: GBC
+#Specifications of GBCoin
+#Name: GBCoin
+#Symbol: GBC
 Decimals: 18
 Standard: ERC20
 Platform: Ethereum
