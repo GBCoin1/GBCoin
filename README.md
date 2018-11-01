@@ -1,7 +1,7 @@
 GBCoin
 
 
-#Specifications of GBCoin
+<li>Specifications of GBCoin
 #Name: GBCoin
 #Symbol: GBC
 Decimals: 18
