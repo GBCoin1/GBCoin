@@ -1,4 +1,4 @@
-GBCoin
+# GBCoin
 
 
 <li>Specifications of GBCoin
@@ -9,7 +9,9 @@ GBCoin
 <li>Platform: Ethereum
 <li>Contract Address: 0x638abd6f39ff141b2117e40c0b928659d76d2d08
 
-Link:
+# Link:
+
+
 <li>Website: www.gb-coin.io
 <li>Email: gb.coin.info@gmail.com
 <li>Github: https://github.com/GBCoin1/GBCoin
